@@ -1,0 +1,847 @@
+body{
+    width: 99%;
+}
+.worldwide_services{
+text-align: center;
+color: white;
+padding: 0.2%;
+font-weight: bold;
+}
+.worldwide_services{
+    background-color: #79D980;
+    margin-bottom: 0%;
+}
+.navigation{
+    display: flex;
+    gap: 30%;
+    padding-top: 2%;
+    padding-left: 3%;
+   
+}
+nav{
+    display: flex;
+    gap: 10%;
+    font-size: 140%;
+}
+.navigation a{
+    text-decoration: none;
+    color: black;
+}
+.navigation p{
+    color: black;
+    font-size: 150%;
+}
+
+.fa-phone-volume{
+    color: black;
+    font-size: 200%;
+}
+.elevating_precision{
+    background-image: url(image/green\ pilow.jpg);
+    background-repeat: no-repeat;
+    /* height: 700px;
+    width:100%; */
+    background-size: 100%;
+    margin-top: 0%;
+  
+}
+.exquisite_design{
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 10%;
+    color: black;
+}
+.exquisite_design h1{
+    font-size: 500%;
+    padding-bottom: 0%;
+}
+.exquisite_design p{
+    font-size: 200%;
+    padding-top: 0%;
+
+}
+.exquisite_design button{
+    width: 12%;
+   padding-top: 1%;
+   padding-bottom: 1%;
+   color: white;
+   background-color: grey;
+   border: none;
+   border-radius: 7%;
+   font-size: 100%;
+}
+.best_printing{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+    font-size: 250%;
+    margin-top: 1%;
+    padding-left: 27%;
+}
+.timeless_artistry{
+    display: flex;
+    gap: 5%;
+    margin-top: 5%;
+    padding-left: 10%;
+    margin-bottom: 4%;
+}
+.printing_description span{
+color: #79D980;
+font-size: 150%;
+margin-bottom: 0%;
+}
+.printing_description h1{
+    font-size: 350%;
+    margin-top: 0%;
+}
+.printing_description p{
+    font-size: 130%;
+}
+.informatin_buttons{
+    display: flex;
+    gap: 20%;
+}
+.informatin_buttons button{
+    width: 29%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#know_more{
+    background-color: #79D980;
+    color: white;
+    border: none;
+    border-radius: 5%;
+}
+#contact{
+    background-color: black;
+    color: white;
+    border-radius: 5%;
+}
+.what_we_offer{
+    display: flex;
+ 
+}
+.what_we_offer img{
+    height: 17%;
+}
+.premium_quality{
+  display: flex;
+  
+}
+.warranty_protection{
+    display: flex;
+   
+}
+.timely_shipping{
+    display: flex;
+    gap: 1%;
+}
+.timely_shipping img{
+    height: 20%;
+}
+.sustainable_artistry{
+    display: flex;
+    
+}
+.sustainable_artistry img{
+width: 100%;
+height: 20%;
+}
+.printing_techniques{
+margin-left: 5%;
+margin-top: -19%;
+margin-bottom: 15%;
+}
+.methods_used{
+    display: flex;
+    gap: 12%;
+    margin-top: 3%;
+    font-size: 120%;
+}
+.diverse_techniques{
+    padding-left: 25%;
+
+}
+.diverse_techniques h2{
+    font-size: 290%;
+}
+.diverse_techniques p{
+    padding-left: 5%;
+    font-size: 150%;
+}
+.traditional_textile img{
+   height: 80%;
+}
+.advanced_uv img{
+    height: 80%;
+  
+}
+.cmyk img{
+    height: 80%;
+}
+.clients_praise{
+    text-align: center;
+}
+.clients_praise h1{
+    font-size: 300%;
+}
+.clients_praise p{
+    font-size: 140%;
+}
+.garment_industry{
+    display: flex;
+    gap: 3%;
+    margin-left: 15%;
+    padding-top: 3%;
+}
+.aditya{
+    display: flex;
+    gap: 2%;
+    border: 1px solid black;
+    width: 25%;
+    padding-top: 3%;
+    padding-left: 4%;
+
+}
+.aditya img{
+    height: 40%;
+    width: 100%;
+    /* padding-top: 100%; */
+    
+}
+.arvind{
+border: 1px solid;
+width: 25%;
+display: flex;
+padding-top: 3%;
+padding-left: 4%;
+
+}
+.arvind img{
+    height: 40%;
+    width: 90%;
+    
+}
+.raymond{
+border: 1px solid;
+width: 25%;
+
+display: flex;
+padding-top: 3%;
+padding-left: 4%;
+}
+.raymond img{
+    height: 40%;
+    width: 80%;
+}
+.reviews{
+    display: flex;
+    gap: 5%;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+.fa-star{
+    color: #79D980;
+}
+.quality_printing p{
+font-size: 110%;
+}
+.green_pillows img{
+    height: 100%;
+    width: 170%;
+   border-radius: 5%;
+}
+.partners{
+    display: flex;
+    gap:7%;
+    margin: 5%;
+    padding-top: 5%;
+    padding-bottom: 3%;
+    margin-left: 8%;
+}
+.partners img{
+
+    height: 100px;
+    width: 120px;
+}
+
+.showcase{
+    margin-top: 5%;
+}
+.showcase h1{
+padding-left: 25%;
+font-size: 340%;
+}
+.showcase p{
+    padding-left: 32%;
+    font-size: 140%;
+}
+.cloth_sample{
+    display: flex;
+    gap: 5%;
+    margin-left: 10%;
+    margin-top: 1%;
+}
+.tops img{
+    height: 550px;
+    width: 430px;
+    border-radius: 5%;
+}
+.bedding img{
+    height: 550px;
+    width: 430px;
+    border-radius: 5%;
+}
+.dress img{
+    height: 550px;
+    width: 430px;
+    border-radius: 5%;
+}
+.woman_picture{
+margin-top: 2%;
+margin-left: 10%;
+}
+.woman_picture img{
+    width: 1449px;
+    height: 600px;
+    border-radius: 2%;
+}
+.reach_out{
+    margin: 4%;
+    text-align: center;
+}
+.reach_out h1{
+font-size: 350%;
+}
+.reach_out p{
+    font-size: 150%;
+    color: gray;
+}
+.map img{
+height: 70%;
+width: 90%;
+border-radius: 5%;
+position: relative;
+margin-top: 3%;
+margin-bottom: 5%;
+}
+.contact_us{ 
+border: 1px solid black;
+width: 27%;
+position: absolute;
+top: 770%;
+left: 15%;
+background-color: white;
+border-radius: 5%;
+padding-left: 3%;
+}
+.contact_us h1{
+    font-size: 200%;
+}
+.contact_us p{
+    color: black;
+}
+.phonenumber{
+    display: flex;
+}
+
+.address{
+    display: flex;
+}
+.opening_hours{
+    display: flex;
+}
+.fa-phone{
+    font-size: 150%;
+   border: 1px solid black;
+   color: white;
+   background-color: black;
+   width: 100%;
+   height: 20%;
+   border-radius: 45%;
+   padding: 40%;
+}
+.tel_number{
+    padding-left: 5%;
+    
+}
+.physical_address{
+    padding-left: 5%;
+}
+.open_time{
+    padding-left: 5%;
+}
+.footer{
+    display: flex;
+    gap: 6%;
+    border: 1px solid black; 
+    color: white;
+    background-color: black;
+    padding-left: 10%;
+}
+.rasi_logo img{
+    height:50% ;
+    width:70% ;
+    border-radius: 5%;
+    padding-top: 15%;
+    
+}
+.the_best{
+    padding-top: 1.1%;
+}
+.office_location{
+    padding-top: 1.1%;
+}
+.Copyright{
+   border-top: 1px solid rgb(163, 156, 156);
+    padding-left: 35%;
+    background-color: black;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.numbers{
+    display: flex;
+    gap: 15%;
+}
+.email{
+    display: flex;
+    gap: 15%;
+}
+.list{
+    text-decoration: none;
+}
+
+@media screen and (min-width: 320px) and (max-width: 857px){
+    body{
+        width: 99%;
+        overflow-x: hidden;
+    }
+    .worldwide_services{
+    text-align: center;
+    color: white;
+    padding: 0.2%;
+    font-weight: bold;
+    }
+    .worldwide_services{
+        background-color: #79D980;
+        margin-bottom: 0%;
+    }
+    .navigation{
+        display: flex;
+        flex-direction: column;
+        gap: 1%;
+        padding-top: 2%;
+        padding-left: 3%;
+       
+    }
+    nav{
+        display: flex;
+        gap: 10%;
+        font-size: 80%;
+    }
+    .navigation a{
+        text-decoration: none;
+        color: black;
+    }
+    .navigation p{
+        color: black;
+        font-size: 90%;
+    }
+    
+    .fa-phone-volume{
+        color: black;
+        font-size: 100%;
+    }
+    .elevating_precision{
+        background-image: url(image/green\ pilow.jpg);
+        background-repeat: no-repeat;
+        width:100%;
+        background-size: 170%;
+        margin-top: 0%;
+      
+    }
+    .exquisite_design{
+        text-align: center;
+        padding-top: 7%;
+        padding-bottom: 10%;
+        color: black;
+    }
+    .exquisite_design h1{
+        font-size: 200%;
+        padding-bottom: 0%;
+    }
+    .exquisite_design p{
+        font-size: 100%;
+        padding-top: 0%;
+    
+    }
+    .exquisite_design button{
+        width: 12%;
+       padding-top: 1%;
+       padding-bottom: 1%;
+       color: white;
+       background-color: grey;
+       border: none;
+       border-radius: 7%;
+       font-size: 50%;
+    }
+    .best_printing{
+      border-top: 2px solid black;
+      border-bottom: 2px solid black;
+        font-size: 100%;
+        margin-top: 1%;
+        padding-left: 27%;
+    }
+    .timeless_artistry{
+        display: flex;
+        flex-direction: column;
+        gap: 5%;
+        margin-top: 5%;
+        padding-left: 10%;
+        margin-bottom: 4%;
+    }
+    .timeless_artistry img{
+        height: 20%;
+        width: 90%;
+    }
+    .printing_description span{
+    color: #79D980;
+    font-size: 100%;
+    margin-bottom: 0%;
+    }
+    .printing_description h1{
+        font-size: 150%;
+        margin-top: 0%;
+    }
+    .printing_description p{
+        font-size: 100%;
+    }
+    .informatin_buttons{
+        display: flex;
+        gap: 20%;
+    }
+    .informatin_buttons button{
+        width: 29%;
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+    #know_more{
+        background-color: #79D980;
+        color: white;
+        border: none;
+        border-radius: 5%;
+    }
+    #contact{
+        background-color: black;
+        color: white;
+        border-radius: 5%;
+    }
+    .what_we_offer{
+        display: flex;
+        flex-wrap: wrap;
+    }
+   
+    .premium_quality{
+      display: flex;
+      
+    }
+    .warranty_protection{
+        display: flex;
+       
+    }
+    .timely_shipping{
+        display: flex;
+        gap: 1%;
+    }
+    .timely_shipping img{
+        /* height: 10%; */
+    }
+    .sustainable_artistry{
+        display: flex;
+        
+    }
+    .sustainable_artistry img{
+    /* width: 100%;
+    height: 20%; */
+    }
+    .printing_techniques{
+    margin-left: 1%;
+    margin-top: -45%;
+    margin-bottom: 15%;
+    }
+    .methods_used{
+        display: flex;
+        flex-direction: column;
+        gap: 12%;
+        margin-top: 3%;
+        font-size: 120%;
+    }
+    .diverse_techniques{
+     padding-left: 2%;
+    
+    }
+    .diverse_techniques h2{
+        font-size: 190%;
+    }
+    .diverse_techniques p{
+        padding-left: 1%;
+        font-size: 150%;
+    }
+    .traditional_textile img{
+       height: 80%;
+       width: 96%;
+    }
+    .advanced_uv img{
+        height: 80%;
+      width: 96%;
+    }
+    .cmyk img{
+        height: 80%;
+        width: 95%;
+    }
+    .clients_praise{
+        text-align: center;
+    }
+    .clients_praise h1{
+        font-size: 145%;
+    }
+    .clients_praise p{
+        font-size: 100%;
+    }
+    .garment_industry{
+        display: flex;
+        flex-direction: column;
+        gap: 3%;
+        /* margin-left: 15%; */
+        padding-top: 3%;
+    }
+    .aditya{
+        display: flex;
+        gap: 2%;
+        border: 1px solid black;
+        width: 55%;
+        padding-top: 3%;
+        padding-left: 4%;
+    
+    }
+    .aditya img{
+        height: 40%;
+        width: 100%;
+        /* padding-top: 100%; */
+        
+    }
+    .arvind{
+    border: 1px solid;
+    width: 55%;
+    display: flex;
+    padding-top: 3%;
+    padding-left: 4%;
+    
+    }
+    .arvind img{
+        height: 40%;
+        width: 90%;
+        
+    }
+    .raymond{
+    border: 1px solid;
+    width: 55%;
+    
+    display: flex;
+    padding-top: 3%;
+    padding-left: 4%;
+    }
+    .raymond img{
+        height: 40%;
+        width: 80%;
+    }
+    .reviews{
+        display: flex;
+        flex-direction: column;
+        gap: 5%;
+        margin-top: 5%;
+        margin-left: 2%;
+    }
+    .fa-star{
+        color: #79D980;
+    }
+    .quality_printing p{
+    font-size: 90%;
+    }
+    .quality_printingh2{
+        font-size: 110%;
+    }
+    .green_pillows img{
+        height: 100%;
+        width: 110%;
+       border-radius: 5%;
+    }
+    .partners{
+        display: flex;
+        flex-wrap: wrap;
+        gap:7%;
+        margin: 5%;
+        padding-top: 5%;
+        padding-bottom: 3%;
+        margin-left: 8%;
+    }
+    .partners img{
+    
+        height: 100px;
+        width: 120px;
+    }
+    
+    .showcase{
+        margin-top: 5%;
+    }
+    .showcase h1{
+    padding-left: 2%;
+    font-size: 126%;
+    }
+    .showcase p{
+        padding-left: 2%;
+        font-size: 120%;
+    }
+    .cloth_sample{
+        display: flex;
+        flex-direction: column;
+        gap: 5%;
+        margin-left: 5%;
+        margin-top: 1%;
+    }
+    .tops img{
+        height: 250px;
+        width: 320px;
+        border-radius: 5%;
+    
+    }
+    .bedding img{
+        height: 250px;
+        width: 320px;
+        border-radius: 5%;
+    }
+    .dress img{
+        height: 250px;
+        width: 320px;
+        border-radius: 5%;
+    }
+    .woman_picture{
+    margin-top: 2%;
+    margin-left: 1%;
+    }
+    .woman_picture img{
+        width: 370px;
+        height: 350px;
+        border-radius: 2%;
+    }
+    .reach_out{
+        margin: 4%;
+        text-align: center;
+    }
+    .reach_out h1{
+    font-size: 230%;
+    }
+    .reach_out p{
+        font-size: 130%;
+        color: gray;
+    }
+    .map img{
+    height: 70%;
+    width: 90%;
+    border-radius: 5%;
+    position: relative;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    }
+    .contact_us{ 
+    border: 1px solid black;
+    width: 34%;
+    position: absolute;
+    top: 1061%;
+    left: 15%;
+    background-color: white;
+    border-radius: 5%;
+    padding-left: 3%;
+    }
+    .contact_us h1{
+        font-size: 70%;
+    }
+    .contact_us h2{
+        font-size: 40%;
+    }
+    .contact_us p{
+        color: black;
+        font-size: 40%;
+    }
+    .phonenumber{
+        display: flex;
+    }
+    
+    .address{
+        display: flex;
+    }
+    .opening_hours{
+        display: flex;
+    }
+    .fa-phone{
+        font-size: 50%;
+       border: 1px solid black;
+       color: white;
+       background-color: black;
+       width: 60%;
+       /* height: 5%; */
+       border-radius: 45%;
+       padding: 20%;
+    }
+    .tel_number{
+        padding-left: 5%;
+        
+    }
+    .physical_address{
+        padding-left: 5%;
+    }
+    .open_time{
+        padding-left: 5%;
+    }
+    .footer{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6%;
+        border: 1px solid black; 
+        color: white;
+        background-color: black;
+        padding-left: 10%;
+    }
+    .rasi_logo img{
+        height:50% ;
+        width:70% ;
+        border-radius: 5%;
+        padding-top: 15%;
+        
+    }
+    .the_best{
+        padding-top: 1.1%;
+    }
+    .office_location{
+        padding-top: 1.1%;
+    }
+    .Copyright{
+       border-top: 1px solid rgb(163, 156, 156);
+        padding-left: 35%;
+        background-color: black;
+        color: white;
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+    .numbers{
+        display: flex;
+        gap: 15%;
+    }
+    .email{
+        display: flex;
+        gap: 15%;
+    }
+    .list{
+        text-decoration: none;
+    }
+}
