@@ -137,7 +137,7 @@ nav {
 
 .what_we_offer {
     display: flex;
-
+gap: 0%;
 }
 
 .what_we_offer img {
@@ -146,12 +146,10 @@ nav {
 
 .premium_quality {
     display: flex;
-
 }
 
 .warranty_protection {
     display: flex;
-
 }
 
 .timely_shipping {
@@ -165,7 +163,6 @@ nav {
 
 .sustainable_artistry {
     display: flex;
-
 }
 
 .sustainable_artistry img {
@@ -206,7 +203,6 @@ nav {
 
 .advanced_uv img {
     height: 80%;
-
 }
 
 .cmyk img {
@@ -239,13 +235,11 @@ nav {
     width: 25%;
     padding-top: 3%;
     padding-left: 4%;
-
 }
 
 .aditya img {
     height: 40%;
     width: 100%;
-
 }
 
 .arvind {
@@ -254,19 +248,16 @@ nav {
     display: flex;
     padding-top: 3%;
     padding-left: 4%;
-
 }
 
 .arvind img {
     height: 40%;
     width: 90%;
-
 }
 
 .raymond {
     border: 1px solid;
     width: 25%;
-
     display: flex;
     padding-top: 3%;
     padding-left: 4%;
