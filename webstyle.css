@@ -1,5 +1,6 @@
 body {
     width: 99%;
+    overflow-x: hidden;
 }
 
 .worldwide_services {
